@@ -1,3 +1,5 @@
+//General Scanimage commands
+
 Parameters are separated by a blank from single-character options (e.g.
 -d epson) and by a "=" from multi-character options (e.g. --device-name=epson).
 -d, --device-name=DEVICE   use a given scanner device (e.g. hp:/dev/scanner)
